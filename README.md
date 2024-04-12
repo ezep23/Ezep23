@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal website**
 
-- 🌱 I’m currently learning **javascript and react.**
+- 🌱 I’m currently learning **python.**
 
 - 🤝 I’m looking for help with **my projects**
 
