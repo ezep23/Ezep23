@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cooperative project**
 
-- 🌱 I’m currently learning **PHP and SQL.**
+- 🌱 I’m currently learning **Python and Cybersecurity**
 
 - 🤝 I’m looking for help with **my projects**
 
