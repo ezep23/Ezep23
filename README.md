@@ -9,6 +9,7 @@
 <p align="start">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="php" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
 </p>
 
@@ -17,6 +18,7 @@
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/webcomponents-000000?style=for-the-badge&logo=webcomponents&logoColor=white" alt="Webcomponents" />
+  <img src="https://img.shields.io/badge/Ajax-000000?style=for-the-badge&logo=ajax&logoColor=white" alt="ajax" />
 </p>
 
 <p>Frameworks, librerías, entornos de ejecución</p>
